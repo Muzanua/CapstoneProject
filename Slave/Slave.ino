@@ -7,9 +7,9 @@
 #include <tflm_esp32.h>
 #include <eloquent_tinyml.h>
 
-#define BLYNK_TEMPLATE_ID "TMPL6Yx71AQ41"
-#define BLYNK_TEMPLATE_NAME "stress tanaman"
-#define BLYNK_AUTH_TOKEN "QZuh-CIaQDEElTb0lhpDM73d_huYgaDw"
+#define BLYNK_TEMPLATE_ID "TMPL6tOocHz-n"
+#define BLYNK_TEMPLATE_NAME "Plant Monitor"
+#define BLYNK_AUTH_TOKEN "FznrJVrhv3ub-mFUc9g7wr5sdSsAy1Zm"
 
 #include <BlynkSimpleEsp32.h>
 
